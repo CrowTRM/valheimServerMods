@@ -8,4 +8,4 @@ How to install Valheim server mods
   ![image](https://user-images.githubusercontent.com/26890196/204691510-1568b898-207f-4450-9651-433cd244ebda.png)
 
 3. run "BepInEx-ModPack.exe"
-4. done
+4. Done! "BepInEx-ModPack.ex" can be deleted at this point.
